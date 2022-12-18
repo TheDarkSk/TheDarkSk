@@ -1,0 +1,11 @@
+//// Creando el UnderWorld ////
+-------------------------------
+
+.Generando materia
+.Asignando nodos superiores.
+.Repartiendo entropía
+.Anulando el desorden dimensional
+
+-------------------------------
+
+=Asignando deidad suprema= SkAgent.
